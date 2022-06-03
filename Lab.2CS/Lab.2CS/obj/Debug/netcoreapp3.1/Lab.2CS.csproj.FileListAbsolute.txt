@@ -1,0 +1,14 @@
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.exe
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.deps.json
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.runtimeconfig.json
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.runtimeconfig.dev.json
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.dll
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\bin\Debug\netcoreapp3.1\Lab.2CS.pdb
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.csproj.AssemblyReference.cache
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.AssemblyInfoInputs.cache
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.AssemblyInfo.cs
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.csproj.CoreCompileInputs.cache
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.dll
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.pdb
+C:\Users\egor1\source\repos\Lab.2CS\Lab.2CS\obj\Debug\netcoreapp3.1\Lab.2CS.genruntimeconfig.cache

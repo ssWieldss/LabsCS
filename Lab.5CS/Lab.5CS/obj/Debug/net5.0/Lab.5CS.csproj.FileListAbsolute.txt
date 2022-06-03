@@ -1,0 +1,17 @@
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.exe
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.deps.json
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.runtimeconfig.json
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.runtimeconfig.dev.json
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.dll
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\ref\Lab.5CS.dll
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.pdb
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.csproj.AssemblyReference.cache
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.AssemblyInfoInputs.cache
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.AssemblyInfo.cs
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.csproj.CoreCompileInputs.cache
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.dll
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\ref\Lab.5CS.dll
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.pdb
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\net5.0\Lab.5CS.genruntimeconfig.cache
+C:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\net5.0\Lab.5CS.dll.config

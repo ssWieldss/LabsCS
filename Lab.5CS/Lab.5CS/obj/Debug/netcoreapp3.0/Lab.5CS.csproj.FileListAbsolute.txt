@@ -1,0 +1,15 @@
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.exe
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.dll.config
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.deps.json
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.runtimeconfig.json
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.runtimeconfig.dev.json
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.dll
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\bin\Debug\netcoreapp3.0\Lab.5CS.pdb
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.csproj.AssemblyReference.cache
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.AssemblyInfoInputs.cache
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.AssemblyInfo.cs
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.csproj.CoreCompileInputs.cache
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.dll
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.pdb
+c:\Users\egor1\source\repos\Lab.5CS\Lab.5CS\obj\Debug\netcoreapp3.0\Lab.5CS.genruntimeconfig.cache

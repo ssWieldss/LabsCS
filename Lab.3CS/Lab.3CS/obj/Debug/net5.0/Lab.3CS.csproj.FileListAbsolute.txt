@@ -1,0 +1,16 @@
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.exe
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.deps.json
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.runtimeconfig.json
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.runtimeconfig.dev.json
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.dll
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\ref\Lab.3CS.dll
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\bin\Debug\net5.0\Lab.3CS.pdb
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.csproj.AssemblyReference.cache
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.AssemblyInfoInputs.cache
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.AssemblyInfo.cs
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.csproj.CoreCompileInputs.cache
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.dll
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\ref\Lab.3CS.dll
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.pdb
+C:\Users\egor1\source\repos\Lab.3CS\Lab.3CS\obj\Debug\net5.0\Lab.3CS.genruntimeconfig.cache

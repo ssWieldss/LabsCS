@@ -1,0 +1,16 @@
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.exe
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.deps.json
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.runtimeconfig.json
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.runtimeconfig.dev.json
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.dll
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\ref\Lab.6CS.dll
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\bin\Debug\net5.0\Lab.6CS.pdb
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.csproj.AssemblyReference.cache
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.AssemblyInfoInputs.cache
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.AssemblyInfo.cs
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.csproj.CoreCompileInputs.cache
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.dll
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\ref\Lab.6CS.dll
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.pdb
+C:\Users\egor1\source\repos\Lab.6CS\Lab.6CS\obj\Debug\net5.0\Lab.6CS.genruntimeconfig.cache
